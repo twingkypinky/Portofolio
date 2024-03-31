@@ -1,0 +1,24 @@
+:root {
+  --grey-90: rgba(228, 228, 230, 1);
+  --absolutewhite: rgba(255, 255, 255, 1);
+  --purple-90: rgba(214, 208, 251, 1);
+  --blackblack-500: rgba(0, 0, 0, 1);
+  --greygrey-500: rgba(196, 196, 196, 1);
+  --grey-50: rgba(121, 124, 134, 1);
+  --whitewhite-500: rgba(255, 255, 255, 1);
+  --dark-06: rgba(14, 14, 16, 1);
+  --dark-12: rgba(28, 28, 33, 1);
+  --blackblack-400: rgba(20, 20, 20, 1);
+  --body-XL-font-family: "Labil Grotesk", Helvetica;
+  --body-XL-font-weight: 400;
+  --body-XL-font-size: 20px;
+  --body-XL-letter-spacing: -0.2px;
+  --body-XL-line-height: 139.9999976158142%;
+  --body-XL-font-style: normal;
+  --navigation: 0px 12px 20px 0px rgba(0, 0, 0, 0.04);
+  --colors-base-black: rgba(0, 0, 0, 1);
+  --colors-primary-600: rgba(69, 142, 34, 1);
+  --number-system-main-system-8px: 8px;
+  --number-system-main-system-10px: 10px;
+  --number-system-main-system-12px: 12px;
+}
